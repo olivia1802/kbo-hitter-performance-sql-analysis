@@ -40,9 +40,8 @@ The objective of this project was to identify elite offensive seasons in the KBO
 
 ## Dataset
 
-KBO Player Dataset (2021–2025 subset)
-
-Source: Kaggle KBO Player Dataset (1982-2025)
+* KBO Player Dataset (2021–2025 subset)
+* Source: Kaggle KBO Player Dataset (1982-2025)
 
 ## Files
 
