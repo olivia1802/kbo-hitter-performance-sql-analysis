@@ -2,6 +2,13 @@
 
 This project analyzes offensive performance in the Korean Baseball Organization (KBO) League using SQL and batting statistics from the 2021–2025 seasons. The analysis focuses on offensive production and advanced metrics such as OPS, wRC+, and WAR.
 
+## Tools Used
+
+- SQL (SQLite)
+- Python
+- Pandas
+- Jupyter Notebook
+
 ## Project Goals
 
 The objective of this project was to identify elite offensive seasons in the KBO League and explore how advanced baseball metrics can be used to evaluate player and team performance beyond traditional statistics.
@@ -25,15 +32,17 @@ The objective of this project was to identify elite offensive seasons in the KBO
 ## Skills Demonstrated
 
 * SQL
-* GROUP BY
+* Data Cleaning and Filtering
 * Aggregate Functions (AVG, SUM)
-* Filtering and Sorting
-* Data Analysis
-* Sports Analytics
+* Exploratory Data Analysis (EDA)
+* Sports Analysis
+* Performance Evaluation Using Advanced Baseball Metrics (OPS, wRC+, WAR)
 
 ## Dataset
 
 KBO Player Dataset (2021–2025 subset)
+
+Source: Kaggle KBO Player Dataset (1982-2025)
 
 ## Files
 
