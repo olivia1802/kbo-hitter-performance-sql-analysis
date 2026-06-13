@@ -4,14 +4,14 @@ This project analyzes offensive performance in the Korean Baseball Organization 
 
 ## Tools Used
 
-- SQL (SQLite)
-- Python
-- Pandas
-- Jupyter Notebook
+* SQL (SQLite)
+* Python
+* Pandas
+* Jupyter Notebook
 
 ## Project Goals
 
-The objective of this project was to identify elite offensive seasons in the KBO League and explore how advanced baseball metrics can be used to evaluate player and team performance beyond traditional statistics.
+The objective of this project was to identify elite offensive seasons in the KBO League and examine how advanced baseball metrics can provide additional insight into player and team performance beyond traditional statistics.
 
 ## Research Questions
 
@@ -35,15 +35,16 @@ The objective of this project was to identify elite offensive seasons in the KBO
 * Data Cleaning and Filtering
 * Aggregate Functions (AVG, SUM)
 * Exploratory Data Analysis (EDA)
-* Sports Analysis
-* Performance Evaluation Using Advanced Baseball Metrics (OPS, wRC+, WAR)
+* Sports Analytics
+* Advanced Baseball Metrics (OPS, wRC+, WAR)
 
 ## Dataset
 
-* KBO Player Dataset (2021–2025 subset)
-* Source: Kaggle KBO Player Dataset (1982-2025)
+KBO Player Dataset (2021–2025 subset)
+
+Source: Kaggle KBO Player Dataset (1982–2025)
 
 ## Files
 
-* kbo_hitter_performance_sql_analysis.ipynb
-* kbo_batting_stats_by_season_1982-2025.csv
+* `kbo_hitter_performance_sql_analysis.ipynb`
+* `kbo_batting_stats_by_season_1982-2025.csv`
